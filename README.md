@@ -1,4 +1,4 @@
-# PIR
+# Arduino based motion-sensing light automation system using Proteus
 
 **Aim**
 
