@@ -39,11 +39,13 @@ Verify the operation by repeating the simulation several times.
 
 **Circuit Diagram **
 
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/d7d887cf-30fd-45ca-96eb-4f7319070d21" />
 
 
 **Output**
 
 
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/52a52585-5663-4003-b452-56585dc12d8c" />
 
 
 **Result**
